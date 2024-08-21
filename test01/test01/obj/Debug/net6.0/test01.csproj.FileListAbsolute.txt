@@ -1,0 +1,15 @@
+E:\github\test\test01\test01\bin\Debug\net6.0\test01.exe
+E:\github\test\test01\test01\bin\Debug\net6.0\test01.deps.json
+E:\github\test\test01\test01\bin\Debug\net6.0\test01.runtimeconfig.json
+E:\github\test\test01\test01\bin\Debug\net6.0\test01.dll
+E:\github\test\test01\test01\bin\Debug\net6.0\test01.pdb
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.GeneratedMSBuildEditorConfig.editorconfig
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.AssemblyInfoInputs.cache
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.AssemblyInfo.cs
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.csproj.CoreCompileInputs.cache
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.sourcelink.json
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.dll
+E:\github\test\test01\test01\obj\Debug\net6.0\refint\test01.dll
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.pdb
+E:\github\test\test01\test01\obj\Debug\net6.0\test01.genruntimeconfig.cache
+E:\github\test\test01\test01\obj\Debug\net6.0\ref\test01.dll
